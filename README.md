@@ -1,6 +1,7 @@
 # 📊 Student Performance EDA & Visualizations
 
 **Data Science / Analysis with Python**
+by Yaksh Dhamat
 
 An end-to-end Exploratory Data Analysis (EDA) on the [UCI Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/student+performance), covering data cleaning, statistical analysis, and visualization.
 
