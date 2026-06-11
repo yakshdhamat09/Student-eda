@@ -113,8 +113,8 @@ Pearson correlation matrix across all numeric features.
 
 **Clone the repo:**
 ```bash
-git clone https://github.com/yakshdhamat09/maincrafts-task1-student-eda.git
-cd maincrafts-task1-student-eda
+git clone https://github.com/yakshdhamat09/Student-eda.git
+cd Student-eda
 ```
 
 **Install dependencies:**
